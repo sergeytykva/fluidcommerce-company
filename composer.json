@@ -1,5 +1,6 @@
 {
     "name": "fluidcommerce/company",
+    "version": "1.0.0",
     "description": "A hello world example package.",
     "type": "library",
     "require": {
