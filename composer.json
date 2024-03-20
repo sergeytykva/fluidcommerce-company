@@ -11,13 +11,11 @@
     },
     "license": "MIT",
     "autoload": {
+        "files": [
+            "registration.php"
+        ],
         "psr-4": {
-            "Fluidcommerce\\Company\\": "src/"
-        }
-    },
-    "autoload-dev": {
-        "psr-4": {
-            "Fluidcommerce\\Company\\Tests\\": "tests/"
+            "Fluidcommerce\\Company\\": ""
         }
     },
     "authors": [
